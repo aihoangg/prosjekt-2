@@ -1,0 +1,8 @@
+.card {
+  flex-grow: 6;
+  margin: 1vw;
+}
+.card img {
+  width: 100%;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.438);
+}

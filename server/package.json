@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@apollo/server": "^4.9.4",
+    "@graphql-tools/mock": "^9.0.0",
+    "@graphql-tools/schema": "^10.0.0",
+    "apollo-server": "^3.12.1",
+    "apollo-server-express": "^3.12.1",
+    "graphql": "^16.8.1",
+    "graphql-tag": "^2.12.6",
+    "mongoose": "^7.6.3"
+  },
+  "scripts": {
+    "start": "nodemon src/index.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1"
+  }
+}
